@@ -20,12 +20,8 @@ Note: To use the "host-only" adapter VirtualBox should have a "host-only" networ
 
 ## Open the WebApp in a browser
 To check if everything works you can open the WebApp in a browser by typing http://192.168.56.101/kopano-webapp in the address bar. You should see the login screen of the WebApp. Five users have been added to the system with the following credentials (username/password):
-user1/user1
-
-user2/user2
-
-user3/user3
-
-user4/user4
-
-user5/user5
+- user1/user1
+- user2/user2
+- user3/user3
+- user4/user4
+- user5/user5

@@ -33,5 +33,5 @@ However, if you are like me and want to use your own editor, you can create a "S
 ```
 cp -r /usr/share/kopano-webapp /media/sf_theming2017
 ```
-The files are now copied to the shared folder on your laptop. You can open this version of the WebApp in your browser by typing the following address in the address bar:
+The files are now copied to the shared folder on your laptop where you can edit them with any editor that you have installed. You can open this version of the WebApp in your browser by typing the following address in the address bar:
 http://192.168.56.101/shared-kopano-webapp
